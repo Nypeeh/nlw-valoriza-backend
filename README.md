@@ -22,10 +22,10 @@ Pré-requisitos: npm / yarn
 ```bash
 
 # Clonar repositório
-git clone https://github.com/Nypeeh/moveit.git
+git clone https://github.com/Nypeeh/nlw-valoriza-backend
 
 # Entrar na pasta do projeto front end web
-cd moveit
+cd nlw-valoriza-backend
 
 # Instalar dependências
 yarn / npm install
