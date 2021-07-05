@@ -16,7 +16,7 @@ Projeto desenvolvido durante a NLW6 NextLevelWeek com uma API autenticada para a
 
 # Como executar o projeto
 
-## Front end web
+## Back-end web
 Pré-requisitos: npm / yarn
 
 ```bash
